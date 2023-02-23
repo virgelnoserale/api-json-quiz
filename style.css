@@ -1,0 +1,45 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+input {
+    width: 290px;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+}
+
+table {
+    text-align: center;
+    border: 1px black solid;
+    width: 300px;
+    background-color: rgb(201, 193, 193);
+
+}
+
+th {
+    background-color: gold;
+    border: 0 yellow solid;
+}
+
+.td-rate {
+    border: 1px white solid;
+    padding-left: 3px;
+}
+
+.td-logo {
+    background-color: white;
+}
+
+p {
+    text-align: left;
+}
+
+h3 {
+    text-align: left;
+}
+
